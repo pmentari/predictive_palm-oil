@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1pPEIkKZcczdk37eeKv49x0feRh7wiy_I
 
 # Proyek Predictive Analytics: Palm Oil Price
-- **Nama:** Putri Mentari
-- **Email:** ri.mentaripm@gmail.com
-- **ID Dicoding:** pmentari
 
 ## Import Semua Packages/Library yang Digunakan
 """
